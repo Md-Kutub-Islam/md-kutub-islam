@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, Node.js) stack.**
 
-- 👨‍💻 All of my projects are available at [https://md-kutub-islam.000webhostapp.com/index.html](https://md-kutub-islam.000webhostapp.com/index.html)
+- 👨‍💻 All of my projects are available at https://md-kutub-islam.github.io/kutub-portfolio/
 
 - 💬 Ask me about **react, node.js, express.js**
 
