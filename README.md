@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkyMWtjbWM0djF4OGJqbmlqdGMxa3YzdzIyNnozb243b2x5NzByYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
-- 🔭 I’m currently working on **Pathology Solution Online+**
+- 🔭 I’m currently working on **Financial Tracker**
 
 - 🌱 I’m currently learning **MERN (MongoDB, Express.js, React, Node.js) stack.**
 
